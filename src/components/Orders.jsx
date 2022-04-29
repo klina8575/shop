@@ -1,7 +1,7 @@
 import React from "react";
 import { useMemo } from "react";
 import useActions from "../hooks/useAction";
-import useOrders from "./../hooks/useOrders";
+import useOrders from "../hooks/useOrders";
 import usePrototypes from "../hooks/usePrototypes";
 
 function Orders() {
